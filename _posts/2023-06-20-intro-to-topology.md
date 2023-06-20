@@ -30,4 +30,6 @@ Here's information about using R-Studio.
 
 ## What if I want to do everything in Python?
 
-Here's some extra resources.
+Here's some extra resources, in a bulleted list!
+
+* [R Studio Cloud](https://login.rstudio.cloud/)
