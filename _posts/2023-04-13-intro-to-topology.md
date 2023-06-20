@@ -1,8 +1,8 @@
 ---
-title: A Brief Introduction to Topology
+title: My New Introduction to Topology
 layout: post
 post-image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Konigsberg_bridges.png"
-description: A light and fast introduction to the pure math subject of topology, and its computational interface.
+description: A light and fast introduction to the pure math subject of topology, and its computational interface. Welcome!
 tags:
 - topology
 - topological data analysis
@@ -13,7 +13,27 @@ tags:
 ---
 
 ---
+#Overview
+
 ## Overview
+
+###Overview
+
+<details>
+<summary style="color:DarkOrange">More Info</summary>
+<br>
+<pre style="background-color:Gold">
+<code>
+Diag1966 <- gridDiag(X=dfGlac, FUNvalues = distances, maxdimension = 1, sublevel = TRUE, printProgress = TRUE)
+</code>
+</pre>
+</details>
+
+---
+
+##And math!
+
+$\mathbb{M}\mathcal{A}\mathcal{T}\mathcal{H}$
 
 In this session, we provide a light and fast introduction to the subject of
 topology, a field of mathematics that stems from pure mathematics, but has
