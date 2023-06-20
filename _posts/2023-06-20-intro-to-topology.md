@@ -17,7 +17,7 @@ tags:
 ### Introduction to R-Studio
 
 
-Here's information about using R-Studio
+Here's information about using R-Studio.
 
 ***Objectives***: After this session, we hope you will be able to:
 > - Define "shape"
@@ -25,5 +25,9 @@ Here's information about using R-Studio
 > - Explain how to represent data as a complex
 
 
-## What if I want to do everything in Python?
+
 ---
+
+## What if I want to do everything in Python?
+
+Here's some extra resources.
