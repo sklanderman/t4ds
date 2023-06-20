@@ -1,8 +1,8 @@
 ---
-title: A Brief Introduction to Topology
+title: Additional Information
 layout: post
-post-image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Konigsberg_bridges.png"
-description: A light and fast introduction to the pure math subject of topology, and its computational interface.
+post-image: "https://www.nps.gov/common/uploads/grid_builder/indu/crop16_9/3EA2EBFA-D7AC-1FA2-0091767961BF45A1.jpg?width=1300&quality=90&mode=crop"
+description: Here's more information if you have limited programming experience.
 tags:
 - topology
 - topological data analysis
@@ -13,7 +13,11 @@ tags:
 ---
 
 ---
+# Overview
+
 ## Overview
+
+### Overview
 
 In this session, we provide a light and fast introduction to the subject of
 topology, a field of mathematics that stems from pure mathematics, but has
